@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Sam's Website
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My LinkedIn is [here](https://www.linkedin.com/in/samuel-shlau2005/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I am a freshman from the suburbs of Chicago! I love baseball and stats, and I am majoring in Data Science. I also live in the Honors college. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
